@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Find the index of the first occurence in a string/1.0.0": {
+        "runtime": {
+          "Find the index of the first occurence in a string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find the index of the first occurence in a string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+E:\ITI - PTP46\LeetCode\3Sum closest\obj\Debug\net9.0\3Sum closest.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI - PTP46\LeetCode\3Sum closest\obj\Debug\net9.0\3Sum closest.AssemblyInfoInputs.cache
+E:\ITI - PTP46\LeetCode\3Sum closest\obj\Debug\net9.0\3Sum closest.AssemblyInfo.cs
+E:\ITI - PTP46\LeetCode\3Sum closest\obj\Debug\net9.0\3Sum closest.csproj.CoreCompileInputs.cache
+E:\ITI - PTP46\LeetCode\3Sum closest\bin\Debug\net9.0\3Sum closest.exe
+E:\ITI - PTP46\LeetCode\3Sum closest\bin\Debug\net9.0\3Sum closest.deps.json
+E:\ITI - PTP46\LeetCode\3Sum closest\bin\Debug\net9.0\3Sum closest.runtimeconfig.json
+E:\ITI - PTP46\LeetCode\3Sum closest\bin\Debug\net9.0\3Sum closest.dll
+E:\ITI - PTP46\LeetCode\3Sum closest\bin\Debug\net9.0\3Sum closest.pdb
+E:\ITI - PTP46\LeetCode\3Sum closest\obj\Debug\net9.0\3Sum closest.dll
+E:\ITI - PTP46\LeetCode\3Sum closest\obj\Debug\net9.0\refint\3Sum closest.dll
+E:\ITI - PTP46\LeetCode\3Sum closest\obj\Debug\net9.0\3Sum closest.pdb
+E:\ITI - PTP46\LeetCode\3Sum closest\obj\Debug\net9.0\3Sum closest.genruntimeconfig.cache
+E:\ITI - PTP46\LeetCode\3Sum closest\obj\Debug\net9.0\ref\3Sum closest.dll

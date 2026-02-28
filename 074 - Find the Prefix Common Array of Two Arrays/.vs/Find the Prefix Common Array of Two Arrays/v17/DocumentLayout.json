@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI - PTP46\\LeetCode\\Find the Prefix Common Array of Two Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76419DEF-FC50-4705-9CB7-3755F043CD5B}|Find the Prefix Common Array of Two Arrays.csproj|e:\\iti - ptp46\\leetcode\\find the prefix common array of two arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76419DEF-FC50-4705-9CB7-3755F043CD5B}|Find the Prefix Common Array of Two Arrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ITI - PTP46\\LeetCode\\Find the Prefix Common Array of Two Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\ITI - PTP46\\LeetCode\\Find the Prefix Common Array of Two Arrays\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T20:03:18.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

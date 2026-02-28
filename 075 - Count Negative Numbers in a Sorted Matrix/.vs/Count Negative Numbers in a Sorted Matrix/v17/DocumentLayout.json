@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI - PTP46\\LeetCode\\Count Negative Numbers in a Sorted Matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D294F45-6577-4D5F-842A-846C3801E210}|Count Negative Numbers in a Sorted Matrix.csproj|e:\\iti - ptp46\\leetcode\\count negative numbers in a sorted matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D294F45-6577-4D5F-842A-846C3801E210}|Count Negative Numbers in a Sorted Matrix.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ITI - PTP46\\LeetCode\\Count Negative Numbers in a Sorted Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\ITI - PTP46\\LeetCode\\Count Negative Numbers in a Sorted Matrix\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:23:21.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
